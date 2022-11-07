@@ -1,0 +1,4 @@
+--patch-module
+org.provider=_
+--add-reads
+org.provider=ALL-UNNAMED
